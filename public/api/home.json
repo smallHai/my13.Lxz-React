@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+            "id": 1,
+            "title": "社会热点1",
+            "imgUrl": "/static/topic.jpg"
+        }, {
+            "id": 2,
+            "title": "社会热点2",
+            "imgUrl": "/static/topic.jpg"
+        }, {
+            "id": 3,
+            "title": "社会热点3",
+            "imgUrl": "/static/topic.jpg"
+        }, {
+            "id": 4,
+            "title": "社会热点4",
+            "imgUrl": "/static/topic.jpg"
+        }, {
+            "id": 5,
+            "title": "社会热点5",
+            "imgUrl": "/static/topic.jpg"
+        }],
+        "articleList": [{
+            "id": 1,
+            "title": "胡歌12年后首谈车祸",
+            "desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+            "imgUrl": "/static/l1.jpg"
+        }, {
+            "id": 2,
+            "title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+            "desc": "文/麦大人 02 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+            "imgUrl": "/static/l2.jpg"
+        }, {
+            "id": 3,
+            "title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+            "desc": "文/麦大人 03 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+            "imgUrl": "/static/l3.jpg"
+        }, {
+            "id": 4,
+            "title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+            "desc": "文/麦大人 04 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+            "imgUrl": "/static/l4.jpg"
+        }, {
+            "id": 5,
+            "title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+            "desc": "文/麦大人 05 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+            "imgUrl": "/static/l5.jpg"
+        }],
+        "recommendList": [{
+            "id": 1,
+            "title": "简书会员",
+            "color": "#ffffff",
+            "background": "#ffb84f"
+        }, {
+            "id": 2,
+            "title": "简书优选",
+            "color": "#bf903b",
+            "background": "#f4e0bd"
+        }, {
+            "id": 3,
+            "title": "简书连载",
+            "color": "#528e86",
+            "background": "#c1e4de"
+        }, {
+            "id": 4,
+            "title": "简书学堂",
+            "color": "#4986a8",
+            "background": "#b7d6ec"
+        }],
+        "writerList": [{
+            "id": 1,
+            "name": "作者1",
+            "photo": "/static/w1.jpg"
+        }, {
+            "id": 2,
+            "name": "作者2",
+            "photo": "/static/w2.jpg"
+        }, {
+            "id": 3,
+            "name": "作者3",
+            "photo": "/static/w3.jpg"
+        }, {
+            "id": 4,
+            "name": "作者4",
+            "photo": "/static/w4.jpg"
+        }, {
+            "id": 5,
+            "name": "作者5",
+            "photo": "/static/w5.jpg"
+        }]
+    }
+}
